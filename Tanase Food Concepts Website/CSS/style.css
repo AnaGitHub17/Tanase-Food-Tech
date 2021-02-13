@@ -1,0 +1,42 @@
+#beans {
+    border-radius: 50px;
+}
+.s6 {
+    font-size: 1.25em;
+}
+.nav-wrapper {
+    background-color: #621764;
+}
+.cards {
+    margin-top: 50px;
+}
+h1 {
+    text-align: center;
+}
+#mv {
+    font-size: 25px;
+}
+#tsp {
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 600px;
+    background-color: #784F92;
+}
+#clr {
+    background-color: #784F92;
+}
+#ft {
+    background-color: rgb(0, 0, 0);
+}
+.iconcolour {
+    color: whitesmoke;
+}
+.icons {
+    margin-left: 200px;
+}
+.ftname {
+    padding-bottom: 10px;
+}
+.space {
+    margin-right: 5px;
+}
